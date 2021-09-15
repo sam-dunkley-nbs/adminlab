@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:Qx6gBvuITi-DM4Ra3pBajQ
+url: https://github.com/liftedeli/eliadminlabs
+urlType: REPO
+username: git

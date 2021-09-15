@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:q59_gqJPQaO6HxtpkojTIQ
+url: https://github.com/NandeeshGK/Harness.git
+urlType: REPO
+username: NandeeshGK

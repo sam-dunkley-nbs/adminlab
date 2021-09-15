@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:t37BEOI2QM-dEa67B66zBA
+url: https://github.com/gibsster/gibranlabs.git
+urlType: REPO
+username: gibsster

@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:V1A3dKlcRwia71KqF46DNw
+url: https://github.com/carlosdoki/carlosdokiadminlabs
+urlType: REPO
+username: git

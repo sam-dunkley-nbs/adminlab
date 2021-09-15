@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:hicvzgXjRICZMVpSwdz0Gg
+url: https://github.com/sam-dunkley-nbs/adminlab
+urlType: REPO
+username: git

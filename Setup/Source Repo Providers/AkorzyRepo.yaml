@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: GIT
+keyAuth: false
+password: safeharness:U81B_jScQoWxB0ra5OCwkQ
+url: https://github.com/akorzynski/harness-lab
+urlType: REPO
+username: akorzynski
